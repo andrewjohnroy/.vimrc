@@ -1,3 +1,4 @@
+set expandtab
 set ts=4
 set smartindent
 set sw=4
